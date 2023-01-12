@@ -1,6 +1,6 @@
 let n =83;
 let flag = true;
-for(let i = 2 ; i<= Math.sqrt(n) ; i--)
+for(let i = 2 ; i<= Math.sqrt(n) ; i++)
 {
 if(n%i == 0)
 {
